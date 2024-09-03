@@ -3,12 +3,9 @@
 </h3>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white" alt="Image">
+  [<img src="https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white" alt="Image">](https://violet0929.github.io)
 </div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white"/>
-</p>
 
 
 
