@@ -4,7 +4,7 @@ https://img.shields.io/badge/-[기술이름]-[컬러코드]?style=flat&logo=[아
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Read.cv-111111?style=flat&logo=Read.cv&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Read.cv-111111?style=flat&logo=CV&logoColor=white"/>
 </p>
 
 
