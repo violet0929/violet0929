@@ -1,6 +1,4 @@
-<h3 align=center>
-Curriculum Vitae
-</h3>
+### Curriculum Vitae
 
 <div align=center>
 
