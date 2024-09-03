@@ -2,7 +2,7 @@
 
 ## Education
 * **M.S. in Computer Science**, Changwon National University (2023.03. - 2025.02.)
-[![link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s)](https://www.changwon.ac.kr/ce/main.do)
+[![link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s){: width="10" height="10"}](https://www.changwon.ac.kr/ce/main.do)
 * **B.S. in Computer Science**, Changwon National University (2017.03. - 2023.02.)
   [Site](https://www.changwon.ac.kr/comnet/main.do)
 
