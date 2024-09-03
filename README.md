@@ -1,6 +1,10 @@
 ### Hi there
 
-https://img.shields.io/badge/-[기술이름]-[컬러코드]?style=flat&logo=[아이콘이름]
+<p style="text-align: center;">
+  <a href="https://violet0929.github.io">
+    <img src="https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white">
+  </a>
+</p>
 
 
 <p align="center">
