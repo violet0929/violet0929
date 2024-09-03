@@ -31,7 +31,8 @@
 
 ## Projects
 
-* [**Flarstack Detection**](https://github.com/violet0929/CIPROD) (2020.12. - 2021.06.)  
+* **Flarstack Detection** (2020.12. - 2021.06.)
+[<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/Flarestack_Detection)</b>
   Flarestack object detection model based on YOLOv4  
   
 * **CIPROD Migration** (2021.12. - 2022.02.) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/CIPROD_Migration)  
@@ -40,7 +41,7 @@
 * **Real-Time Traffic Prediction** (2021.12. - 2022.06.) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/Traffic_prediction)  
   Recurrent NN based real-time traffic prediction  
 
-* [**Dust Concentration Prediction**](https://github.com/violet0929/Dust_concentration) (2023.03. - 2023.06.)  
+* **Dust Concentration Prediction**(https://github.com/violet0929/Dust_concentration) (2023.03. - 2023.06.) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/Flarestack_Detection)  
   DL based dust concentration prediction for monitoring system   
 
 * [**HRMS-T Augmentation**](https://github.com/violet0929/CIPROD) (2023.03. - 2023.12.)  
