@@ -2,9 +2,9 @@
 
 ## Education
 * **M.S. in Computer Science**, Changwon National University (2023.03. - 2025.02.)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="15" height="15" />](https://www.changwon.ac.kr/comnet/main.do)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="15" height="15" />](https://www.changwon.ac.kr/ce/main.do)
 * **B.S. in Computer Science**, Changwon National University (2017.03. - 2023.02.)
-  [Site](https://www.changwon.ac.kr/comnet/main.do)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="15" height="15" />](https://www.changwon.ac.kr/comnet/main.do)
 
 ## Publications
 * **YOLO v4를 기반으호 한 플레어 스택 객체 탐지 모델** (Conference)  
