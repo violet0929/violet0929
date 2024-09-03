@@ -1,20 +1,5 @@
-### <center> Check my CV <img src="https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white" alt="Image"><center>
+### <center> Check my CV <img src="https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white" alt="Image"></center>
 
-<p style="text-align: center;">
-  <a href="https://violet0929.github.io">
-    <img src="https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white">
-  </a>
-</p>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://violet0929.github.io">
-        <img src="https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white" alt="Image">
-      </a>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white"/>
