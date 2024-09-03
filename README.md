@@ -2,8 +2,6 @@
   Check my CV 
 </h3>
 
-
-
 <div align=center>
 
 [![CV](https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white)](https://violet0929.github.io)
