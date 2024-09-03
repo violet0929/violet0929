@@ -1,4 +1,7 @@
-<center>
+<p style="text-align: center;">
+  ### Check my CV
+</p>
+
 ### Check my CV
 </center>
 
