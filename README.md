@@ -7,7 +7,7 @@
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="18" height="18" />](https://www.changwon.ac.kr/ce/main.do)
 
 ## Publications
-* **YOLO v4를 기반으호 한 플레어 스택 객체 탐지 모델** (Conference)
+* **YOLO v4를 기반으로 한 플레어 스택 객체 탐지 모델** (Conference)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="18" height="18" />](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583487)  
   이현지, 김진호, 강현우, 안동혁  
   한국정보과학회 학술발표논문집 (KCC), 2021.06.  
