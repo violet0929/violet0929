@@ -3,9 +3,11 @@
 ## Education
 * **M.S. in Computer Science**, Changwon National University (2023.03. - 2025.02.)
 *
+
 <a href="https://example.com" style="color: black; text-decoration: none;">
 **B.S. in Computer Science**
 </a>
+
 , Changwon National University (2017.03. - 2023.02.)
 
 ## Publications
