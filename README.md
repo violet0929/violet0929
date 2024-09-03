@@ -37,7 +37,8 @@
 * [**CIPROD Migration**](https://github.com/violet0929/CIPROD) (2021.12. - 2022.02.)  
   Migration of Fortran 77 based numerical analysis program to C  
 
-* [**Real-Time Traffic Prediction**](https://github.com/violet0929/Traffic_prediction) (2021.12. - 2022.06.)  
+* **Real-Time Traffic Prediction** (2021.12. - 2022.06.)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWrTw_4H8-xlpH9OBVWA6PlNuVcaFIx_HXwA&s" width="15" height="15" />](https://github.com/violet0929/Traffic_prediction)
   Recurrent NN based real-time traffic prediction  
 
 * [**Dust Concentration Prediction**](https://github.com/violet0929/Dust_concentration) (2023.03. - 2023.06.)  
