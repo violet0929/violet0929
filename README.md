@@ -1,6 +1,6 @@
-<p style="text-align: center;">
+<div align=center>
   ### Check my CV
-</p>
+</div>
 
 ### Check my CV
 </center>
