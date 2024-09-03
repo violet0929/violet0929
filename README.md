@@ -38,7 +38,7 @@
   Migration of Fortran 77 based numerical analysis program to C  
 
 * **Real-Time Traffic Prediction** (2021.12. - 2022.06.)  
-  Recurrent NN based real-time traffic prediction[<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository.png width="18" height="18" />](https://github.com/violet0929/Traffic_prediction)    
+  Recurrent NN based real-time traffic prediction [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository.png width="18" height="18" />](https://github.com/violet0929/Traffic_prediction)    
 
 * [**Dust Concentration Prediction**](https://github.com/violet0929/Dust_concentration) (2023.03. - 2023.06.)  
   DL based dust concentration prediction for monitoring system   
