@@ -38,7 +38,7 @@
   Migration of Fortran 77 based numerical analysis program to C  
 
 * **Real-Time Traffic Prediction** (2021.12. - 2022.06.)
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Frepository_5043800&psig=AOvVaw3_IVVEq80J4_IlK4PBfmdw&ust=1725454494081000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDZt6bppogDFQAAAAAdAAAAABAE" width="15" height="15" />](https://github.com/violet0929/Traffic_prediction)  
+[<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository.png width="15" height="15" />](https://github.com/violet0929/Traffic_prediction)  
   Recurrent NN based real-time traffic prediction  
 
 * [**Dust Concentration Prediction**](https://github.com/violet0929/Dust_concentration) (2023.03. - 2023.06.)  
