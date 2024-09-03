@@ -1,4 +1,4 @@
-<h4 align=center>
+<h2 align=center>
   Check my CV <img src="https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white" alt="Image">
 </h3>
 
