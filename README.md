@@ -34,8 +34,8 @@
 * [**Flarstack Detection**](https://github.com/violet0929/CIPROD) (2020.12. - 2021.06.)  
   Flarestack object detection model based on YOLOv4  
   
-* **CIPROD Migration** (2021.12. - 2022.02.)  
-  Migration of Fortran 77 based numerical analysis program to C [(See detail)](https://github.com/violet0929/CIPROD)
+* **CIPROD Migration** (2021.12. - 2022.02.) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/CIPROD_Migration)  
+  Migration of Fortran 77 based numerical analysis program to C
 
 * **Real-Time Traffic Prediction** (2021.12. - 2022.06.) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/Traffic_prediction)  
   Recurrent NN based real-time traffic prediction  
