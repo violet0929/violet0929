@@ -1,10 +1,10 @@
 <h3 align=center>
   Check my CV
-  <div align=center>
+<div align=center>
     
 [![CV](https://img.shields.io/badge/-CV-111111?style=flat&logo=Read.cv&logoColor=white)](https://violet0929.github.io)
 
-  </div>
+</div>
 </h3>
 
 
