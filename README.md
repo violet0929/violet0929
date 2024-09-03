@@ -21,9 +21,9 @@
 
 ## Project
 
-* [**Flarstack Object Detection: Flarestack object detection model based on YOLOv4**](https://github.com/violet0929/CIPROD) (2020.12 - 2021.06)
+* [**Flarstack detection**: Flarestack object detection model based on YOLOv4](https://github.com/violet0929/CIPROD) (2020.12 - 2021.06)
   
-* [**CIPROD: Migration Fortran 77 based numerical analysis program to C**](https://github.com/violet0929/CIPROD) (2021.12 - 2022.02)
+* [**CIPROD migration: Migration of Fortran 77 based numerical analysis program to C**](https://github.com/violet0929/CIPROD) (2021.12 - 2022.02)
 
 * [**RT Prediction: Recurrent NN based real-time traffic prediction**](https://github.com/violet0929/CIPROD) (2021.12 - 2022.06)
 
@@ -31,8 +31,8 @@
 
 * [**HRMS-T Augmentation: High resolution mass spectrometry tabular data augmentation**](https://github.com/violet0929/CIPROD) (2023.03 - 2023.12)
 
-* [**MLO: Performance analysis of IEEE 802.11be multi-link operation**](https://github.com/violet0929/CIPROD) (2024.01 - Current)
+* [**MLO Analysis: Performance analysis of IEEE 802.11be multi-link operation**](https://github.com/violet0929/CIPROD) (2024.01 - Current)
 
-* [**CNC: Replacement cycle estimation based on tool wear prediction of CNC machine**](https://github.com/violet0929/CIPROD) (2024.06 - Current)
+* [**CNC Estimation: Replacement cycle estimation based on tool wear prediction of CNC machine**](https://github.com/violet0929/CIPROD) (2024.06 - Current)
   
-* [**Document Integration: Automatic standard document genertaion based heterogeneous document integration**](https://github.com/violet0929/CIPROD) (2024.06 - Current)
+* [**File Integration**](https://github.com/violet0929/CIPROD): Automatic standard document genertaion based heterogeneous document integration (2024.06 - Current)
