@@ -21,4 +21,4 @@
 
 ## Project
 
-* **CIPROD: Migration Fortran 77 based numerical analysis program to C**  [2021.12 - 2022.02] [link](https://github.com/violet0929/CIPROD)
+* **CIPROD: Migration Fortran 77 based numerical analysis program to C [(detail)](https://github.com/violet0929/CIPROD)**  [2021.12 - 2022.02] 
