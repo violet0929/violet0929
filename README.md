@@ -21,16 +21,16 @@
 
 ## Project
 
-* [**Flarstack detection**](https://github.com/violet0929/CIPROD) (2020.12 - 2021.06)  
+* [**Flarstack Detection**](https://github.com/violet0929/CIPROD) (2020.12 - 2021.06)  
   Flarestack object detection model based on YOLOv4  
   
-* [**CIPROD migration**](https://github.com/violet0929/CIPROD) (2021.12 - 2022.02)  
+* [**CIPROD Migration**](https://github.com/violet0929/CIPROD) (2021.12 - 2022.02)  
   Migration of Fortran 77 based numerical analysis program to C  
 
-* [**RT Prediction**](https://github.com/violet0929/CIPROD) (2021.12 - 2022.06)  
+* [**Real-Time Traffic Prediction**](https://github.com/violet0929/CIPROD) (2021.12 - 2022.06)  
   Recurrent NN based real-time traffic prediction  
 
-* [**DC Prediction**](https://github.com/violet0929/CIPROD) (2023.03 - 2023.06)  
+* [**Dust Concentration Prediction**](https://github.com/violet0929/CIPROD) (2023.03 - 2023.06)  
   DL based dust concentration prediction for monitoring system   
 
 * [**HRMS-T Augmentation**](https://github.com/violet0929/CIPROD) (2023.03 - 2023.12)  
