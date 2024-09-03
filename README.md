@@ -19,7 +19,7 @@
 
 * **Performance evaluation of IEEE 802.11be multi-link operation** (Journal)  
 
-## Project
+## Projects
 
 * [**Flarstack Detection**](https://github.com/violet0929/CIPROD) (2020.12 - 2021.06)  
   Flarestack object detection model based on YOLOv4  
@@ -30,7 +30,7 @@
 * [**Real-Time Traffic Prediction**](https://github.com/violet0929/CIPROD) (2021.12 - 2022.06)  
   Recurrent NN based real-time traffic prediction  
 
-* [**Dust Concentration Prediction**](https://github.com/violet0929/CIPROD) (2023.03 - 2023.06)  
+* [**Dust Concentration Prediction**](https://github.com/violet0929/Dust_concentration) (2023.03 - 2023.06)  
   DL based dust concentration prediction for monitoring system   
 
 * [**HRMS-T Augmentation**](https://github.com/violet0929/CIPROD) (2023.03 - 2023.12)  
@@ -42,5 +42,5 @@
 * [**CNC Estimation**](https://github.com/violet0929/CIPROD) (2024.06 - Current)  
   Replacement cycle estimation based on tool wear prediction of CNC machine  
   
-* [**File Integration**](https://github.com/violet0929/CIPROD) (2024.06 - Current)    
+* [**File Integration**](https://github.com/violet0929/Document_integration) (2024.06 - Current)   
   Automatic standard document generation based heterogeneous document integration  
