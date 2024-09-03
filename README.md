@@ -35,4 +35,5 @@
 
 * [**CNC Estimation: Replacement cycle estimation based on tool wear prediction of CNC machine**](https://github.com/violet0929/CIPROD) (2024.06 - Current)
   
-* [**File Integration**](https://github.com/violet0929/CIPROD): Automatic standard document genertaion based heterogeneous document integration (2024.06 - Current)
+* [**File Integration**](https://github.com/violet0929/CIPROD)  
+  Automatic standard document genertaion based heterogeneous document integration (2024.06 - Current)  
