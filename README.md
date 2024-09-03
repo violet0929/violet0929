@@ -52,7 +52,7 @@
 * **CNC Estimation** (2024.06. - Current) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/CNC_Estimation)  
   Replacement cycle estimation based on tool wear prediction of CNC machine  
   
-* **File Integration** (2024.06. - Current) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/File_Integration)
+* **File Integration** (2024.06. - Current) [<img src=https://github.com/violet0929/violet0929/blob/main/Repository/Repository2.png width="18" height="18" />](https://github.com/violet0929/File_Integration)  
   Automatic standard document generation based heterogeneous document integration
 
 ## Awards
