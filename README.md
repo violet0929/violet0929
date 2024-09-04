@@ -10,9 +10,9 @@
 * :clock7: **여가시간**에는 :musical_note: :walking: :video_game: :computer:와 같은 활동을 하며 시간을 보냅니다.
 
 ### Repository
-현재 모든 repository들에 대해 rebuilding 중입니다
+현재 아래 repository들에 대해 rebuilding 중입니다
 * **Flarstack Detection** (2020.12. - 2021.06.)
-[<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/Flarestack_Detection)  
+[<img src="./violet0929.github.io/images/repository.png" width="18" height="18" />](https://github.com/violet0929/Flarestack_Detection)  
   Flarestack object detection model based on YOLOv4
   
 * **CIPROD Migration** (2021.12. - 2022.02.) [<img src="../violet0929.github.io/images/repository.png" width="18" height="18" />](https://github.com/violet0929/CIPROD_Migration)  
