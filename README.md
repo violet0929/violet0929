@@ -15,7 +15,7 @@
 [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/Flarestack_Detection)  
   Flarestack object detection model based on YOLOv4
   
-* **CIPROD Migration** (2021.12. - 2022.02.) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/CIPROD_Migration)  
+* **CIPROD Migration** (2021.12. - 2022.02.) [<img src="../violet0929.github.io/images/repository.png" width="18" height="18" />](https://github.com/violet0929/CIPROD_Migration)  
   Migration of Fortran 77 based numerical analysis program to C
 
 * **Real-Time Traffic Prediction** (2021.12. - 2022.06.) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/Real-Time_Traffic_Prediction)  
