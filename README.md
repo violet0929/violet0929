@@ -10,7 +10,7 @@
 * :clock7: **여가시간**에는 :musical_note: :walking: :video_game: :computer:와 같은 활동을 하며 시간을 보냅니다.
 
 ### Repository
-현재 졸업 논문 및 취업 준비 이슈로 인한 일부 repository가 🔒```private```🔒 상태입니다!
+현재 ```졸업 논문``` 및 ```취업 준비``` 이슈로 인한 일부 repository가 🔒```private```🔒 상태입니다!
 
 아래 repository는 🔓```public```🔓 상태입니다!
 * **CNC Estimation** (2024.06. - Current) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/CNC_Estimation)  
