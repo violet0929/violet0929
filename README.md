@@ -8,3 +8,10 @@
   - ```Real-Time Communication``` 에서의 ```Packet```기반 **트래픽 분석 및 예측**
 * :question: 현재 ```Diffusion``` 기반 ```Generative AI```기술과 실제 서비스를 위한 ```DevOps``` 및 ```MLOps```에 관심이 많습니다.
 * :clock7: **여가시간**에는 :musical_note: :walking: :video_game: :computer:와 같은 활동을 하며 시간을 보냅니다.
+
+### Repository
+현재 졸업 논문 및 취업 준비 이슈로 인한 일부 repository가 🔒```private```🔒 상태입니다!
+
+아래 repository는 🔓```public```🔓 상태입니다!
+* **CNC Estimation** (2024.06. - Current) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/CNC_Estimation)  
+  Replacement cycle estimation based on tool wear prediction of CNC machine  
