@@ -10,3 +10,28 @@
 * :clock7: **여가시간**에는 :musical_note: :walking: :video_game: :computer:와 같은 활동을 하며 시간을 보냅니다.
 
 ### Repository
+**현재 1-8번에 해당하는 repository들에 대해 rebuilding 중입니다.**
+* **1. Flarstack Detection** (2020.12. - 2021.06.)
+[<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/Flarestack_Detection)  
+  Flarestack object detection model based on YOLOv4
+  
+* **2. CIPROD Migration** (2021.12. - 2022.02.) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/CIPROD_Migration)  
+  Migration of Fortran 77 based numerical analysis program to C
+
+* **3. Real-Time Traffic Prediction** (2021.12. - 2022.06.) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/Real-Time_Traffic_Prediction)  
+  Recurrent NN based real-time traffic prediction  
+
+* **4. Dust Concentration Prediction** (2023.03. - 2023.06.) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/Dust_Concentration_Prediction)  
+  DL based dust concentration prediction for monitoring system   
+
+* **5. HRMS-T Augmentation** (2023.03. - 2023.12.) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/HRMS-T_Augmentation)  
+  High resolution mass spectrometry tabular data augmentation  
+
+* **6. MLO Analysis** (2024.01. - Current) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/MLO_Analysis)  
+  Performance analysis of IEEE 802.11be multi-link operation  
+
+* **7. CNC Estimation** (2024.06. - Current) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/CNC_Estimation)  
+  Replacement cycle estimation based on tool wear prediction of CNC machine  
+  
+* **8. File Integration** (2024.06. - Current) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/File_Integration)  
+  Automatic standard document generation based heterogeneous document integration
