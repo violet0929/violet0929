@@ -14,8 +14,8 @@
   - 현재 ```졸업 논문``` 및 ```취업 준비``` 이슈로 인한 일부 repository에 대해 ```리팩토링```을 진행중입니다. 
 
 * 🔓```public```🔓 상태입니다!
-  - **CNC Estimation** (2024.06. - Current) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/CNC_Estimation)  
+  - **CNC Estimation** (2024.06. - Current) [🔗](https://github.com/violet0929/CNC_Estimation)  
     Replacement cycle estimation based on tool wear prediction of CNC machine  
 
-  - **MLO Analysis** (2024.01. - Current) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/MLO_Analysis)  
+  - **MLO Analysis** (2024.01. - Current) [🔗](https://github.com/violet0929/MLO_Analysis)  
     Analysis of IEEE 802.11be multi-link operation and performance using ns-3 simulator
