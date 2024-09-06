@@ -16,3 +16,6 @@
 * 🔓```public```🔓 상태입니다!
   - **CNC Estimation** (2024.06. - Current) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/CNC_Estimation)  
     Replacement cycle estimation based on tool wear prediction of CNC machine  
+
+  - **MLO Analysis** (2024.01. - Current) [<img src="./images/repository.png" width="18" height="18" />](https://github.com/violet0929/MLO_Analysis)  
+    Analysis of IEEE 802.11be multi-link operation and performance using ns-3 simulator
