@@ -17,4 +17,5 @@
   Analysis of IEEE 802.11be multi-link operation and performance using ns-3 simulator
 
 - 🔓**Paper Review** (Periodically Update) [🔗](https://github.com/violet0929/Paper_Review)
-  내가 읽고 싶은 논문 리뷰 (무선 네트워크 및 생성형 인공지능 분야)
+  내가 읽고 싶은 논문 리뷰
+  (Wireless Communcation 및 Generative AI 분야)
